@@ -1,11 +1,14 @@
 ---
 title: "Adaptive Partial Conjunction Hypothesis: Identifying Pleiotropy Across Heterogeneous Effect Units"
 collection: publications
-category: preprints          # 对应上面 config 里的 preprints
+category: preprints
 permalink: /publication/apch
-venue: "bioRxiv"
-paperurl: "https://doi.org/10.1101/2025.11.25.690340"
-citation: 'Li, Y., Lu, Z., & Lin, X. (2025). "Adaptive Partial Conjunction Hypothesis: Identifying Pleiotropy Across Heterogeneous Effect Units." *bioRxiv*. https://doi.org/10.1101/2025.11.25.690340'
+date: 2025-11-25
+
+# 这一行会变成截图里作者那一行
+authors: "Y. Li, Z. Lu, & X. Lin"
+
+# 这一行会显示在标题下面，用来放链接
+excerpt: 'Y. Li, Z. Lu, & X. Lin. <br> [bioRxiv](https://doi.org/10.1101/2025.11.25.690340) · [package](https://github.com/colinyuxin/APCH)'
 ---
 
-[bioRxiv](https://doi.org/10.1101/2025.11.25.690340) · [package](https://github.com/colinyuxin/APCH)
