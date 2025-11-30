@@ -1,9 +1,10 @@
 ---
+title: "Adaptive Partial Conjunction Hypothesis: Identifying Pleiotropy Across Heterogeneous Effect Units"
 collection: publications
-category: preprints          # 对应上面 config 里的 preprints
+category: preprints          # 对应 _config.yml 里的 preprints / conferences 看你怎么配
 permalink: /publication/apch
 date: 2025-11-28
 venue: "bioRxiv"
-paperurl: "https://doi.org/10.1101/2025.11.25.690340"
 ---
 
+<u>Li, Y.</u>, Lu, Z., & Lin, X.  
