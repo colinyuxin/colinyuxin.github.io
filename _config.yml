@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Yuxin Li / Personal Website"
+title                    : " Personal Website"
 title_separator          : "-"
 name                     : &name "Yuxin Li"
 description              : &description "Yuxin Li's academic portfolio"   # Default description if not overridden by a page
@@ -55,12 +55,9 @@ author:
 
 # Publication Category - The following is the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'
-  conferences:
-    title: 'Conference Papers'
+  preprints:
+    title: 'Preprints'
+
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews

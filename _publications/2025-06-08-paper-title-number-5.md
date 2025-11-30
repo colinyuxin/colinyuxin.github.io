@@ -1,13 +1,11 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Adaptive Partial Conjunction Hypothesis: Identifying Pleiotropy Across Heterogeneous Effect Units"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: preprints          # 对应上面 config 里的 preprints
+permalink: /publication/apch
+venue: "bioRxiv"
+paperurl: "https://doi.org/10.1101/2025.11.25.690340"
+citation: 'Li, Y., Lu, Z., & Lin, X. (2025). "Adaptive Partial Conjunction Hypothesis: Identifying Pleiotropy Across Heterogeneous Effect Units." *bioRxiv*. https://doi.org/10.1101/2025.11.25.690340'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+[bioRxiv](https://doi.org/10.1101/2025.11.25.690340) · [package](https://github.com/colinyuxin/APCH)
