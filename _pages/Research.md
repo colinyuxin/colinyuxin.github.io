@@ -24,5 +24,3 @@ I build analysis pipelines that take partitioned PRS, perform differential expre
 
 ---
 
-If you are interested in similar topics or see potential for collaboration, I’d be very happy to chat — you can reach me at  
-📧 [colin.yuxin.li@gmail.com](mailto:colin.yuxin.li@gmail.com).
