@@ -1,9 +1,10 @@
 ---
-​---
+
 layout: single
 title: ""
 permalink: /cv/
-​---
+redirect_from:
+  - /resume
 ---
 
 [Download CV ](/files/CV.pdf)
