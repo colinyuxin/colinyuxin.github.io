@@ -11,8 +11,10 @@ classes: wide
 I work with [Prof. Xiaolei Lin](https://xiaolei-lin.github.io/) at Fudan on methods for **cross-trait genetic association**. Our recent work proposes the *Adaptive Partial Conjunction Hypothesis* (APCH), which uses summary statistics to identify pleiotropic loci across heterogeneous effect units while controlling false discoveries.
 
 <p style="text-align:center; margin: 1.2rem 0;">
-  <img src="/images/research/apch.png" alt="APCH figure" style="max-width: 820px; width: 100%; height: auto;">
+  <img src="/images/research/apch.png" alt="APCH figure" style="width: 100%; height: auto; max-width: none;">
 </p>
+
+
 
 
 The method is available as an R package and a bioRxiv preprint:
@@ -25,8 +27,10 @@ The method is available as an R package and a bioRxiv preprint:
 With [Prof. Xin He](https://xinhelab.org/) at the University of Chicago, I work on linking **polygenic risk scores (PRS)** for complex diseases (such as type 2 diabetes) to **multi-tissue gene-expression patterns**.
 
 <p style="text-align:center; margin: 1.2rem 0;">
-  <img src="/images/research/prs_expression.png" alt="PRS figure" style="max-width: 820px; width: 100%; height: auto;">
+  <img src="/images/research/prs_expression.png" alt="PRS figure" style="width: 100%; height: auto; max-width: none;">
 </p>
+
+
 
 
 
