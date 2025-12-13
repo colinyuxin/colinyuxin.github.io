@@ -1,10 +1,8 @@
 ---
 ​---
-layout: archive
-title: "CV"
+layout: single
+title: ""
 permalink: /cv/
-redirect_from:
-  - /resume
 ​---
 ---
 
