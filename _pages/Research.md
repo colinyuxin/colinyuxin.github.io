@@ -3,6 +3,7 @@ layout: single
 title: "Research"
 permalink: /research/
 author_profile: false
+classes: wide
 ---
 
 ## Adaptive Partial Conjunction Hypothesis (APCH)

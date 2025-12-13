@@ -41,3 +41,21 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* ---- widen content area (override) ---- */
+@media (min-width: 64em) {
+  /* default pages */
+  .page__inner-wrap {
+    max-width: 1200px;
+  }
+
+  /* pages with front matter: classes: wide */
+  .wide .page__inner-wrap {
+    max-width: 1400px;
+  }
+
+  /* avoid extra constraint on the content itself */
+  .page__content {
+    max-width: none;
+  }
+}
