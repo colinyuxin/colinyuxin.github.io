@@ -23,6 +23,12 @@ The method is available as an R package and a bioRxiv preprint:
 
 With [Prof. Xin He](https://xinhelab.org/) at the University of Chicago, I work on linking **polygenic risk scores (PRS)** for complex diseases (such as type 2 diabetes) to **multi-tissue gene-expression patterns**.
 
+<p style="text-align:center; margin: 1.2rem 0;">
+  <img src="/images/research/prs_expression.png" alt="PRS figure" style="max-width: 820px; width: 100%; height: auto;">
+</p>
+
+
+
 I build analysis pipelines that take partitioned PRS, perform differential expression, pathway enrichment, and clustering analyses in tissues like adipose, liver and skeletal muscle, and then summarize the results into interpretable pathway themes and potential biomarkers.
 
 ---
