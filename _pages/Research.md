@@ -5,16 +5,19 @@ permalink: /research/
 author_profile: true
 ---
 
-Here are some of the projects I am currently working on or have recently worked on.
-
 ## Adaptive Partial Conjunction Hypothesis (APCH)
 
 I work with [Prof. Xiaolei Lin](https://xiaolei-lin.github.io/) at Fudan on methods for **cross-trait genetic association**. Our recent work proposes the *Adaptive Partial Conjunction Hypothesis* (APCH), which uses summary statistics to identify pleiotropic loci across heterogeneous effect units while controlling false discoveries.
 
-I helped design and implement the inference procedure, run large-scale simulations, and apply APCH to type 2 diabetes–related GWAS traits. The method is available as an R package and a bioRxiv preprint:
+<p style="text-align:center; margin: 1.2rem 0;">
+  <img src="/images/research/apch.png" alt="APCH figure" style="max-width: 820px; width: 100%; height: auto;">
+</p>
+
+
+The method is available as an R package and a bioRxiv preprint:
 
 - Preprint: [bioRxiv](https://doi.org/10.1101/2025.11.25.690340)  
-- Code: [APCH R package](https://github.com/colinyuxin/APCH)
+- Package: [APCH](https://github.com/colinyuxin/APCH)
 
 ## Polygenic risk and multi-tissue gene expression
 
