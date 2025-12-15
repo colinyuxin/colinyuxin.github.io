@@ -32,7 +32,7 @@ Polygenic scores (PGS) reflect an individual’s overall genetic liability. Link
 </p>
 
 
-With [Prof. Xin He](https://xinhelab.org/) at the University of Chicago, we build analysis pipelines that generate comparable pathway themes across tissues and conditions, and we identify an insulin-resistance module that functions across multiple tissues.
+With [Prof. Xin He](https://xinhelab.org/) at the University of Chicago, we build analysis pipelines that generate comparable pathway themes across tissues and conditions, and we identify insulin-resistance modules that functions across multiple tissues.
 
 
 
